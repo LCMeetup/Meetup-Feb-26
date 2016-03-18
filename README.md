@@ -1,2 +1,2 @@
 # Meetup-Feb-26
-Check out the README file for more information on the presentation and the expectations for our meetup.
+Here is a PDF of the presentation that Sally gave on February 26th. The presentation gives an overview of the professional development environment and what the expectations for the meetup are.
